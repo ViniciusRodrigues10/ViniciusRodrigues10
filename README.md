@@ -1,6 +1,6 @@
 ### Vinícius Gonzaga Cavalcante Rodrigues 
 
-- 🔭 Atualmente trabalho com back end 
+- 🔭 Atualmente trabalhando com back end 
 - 🌱 Estudando Java
 - 📫 Contate-me no email: viniciusgcr1710@gmail.com
 
