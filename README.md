@@ -1,4 +1,4 @@
-### Vinícius Rodrigues 
+### Vinícius Gonzaga Cavalcante Rodrigues 
 
 - 🔭 Atualmente trabalho com back end 
 - 🌱 Estudando Java
