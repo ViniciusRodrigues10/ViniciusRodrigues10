@@ -1,7 +1,7 @@
 ### Vinícius Gonzaga Cavalcante Rodrigues 
 
 - 🔭 Atualmente trabalhando com back end 
-- 🌱 Estudando Java
+- 🌱 Estudando nest.js
 - 📫 Contate-me no email: viniciusgcr1710@gmail.com
 
 <div align="center">
