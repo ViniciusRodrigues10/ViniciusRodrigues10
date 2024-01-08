@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando com back end 
 - 🌱 Estudando nest.js
-- 📫 Contate-me no email: viniciusgcr1710@gmail.com
+- 📫 Contate-me no email: vinicius.gonzaga@academico.ifpb.edu.br
 
 <div align="center">
   <a href="https://github.com/ViniciusRodrigues10">
