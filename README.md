@@ -9,6 +9,7 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ViniciusRodrigues10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRodrigues10&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Nestjs" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
    <img align="center" alt="Vinicius-TypeScript" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
@@ -19,7 +20,7 @@
   <img align="center" alt="Vinicius-SQL" height="90" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <!-- <img align="right" alt="Vinicius-pic" height="150" style="https://discord.com/channels/@me/805265121709522997/935166478146236486"> -->
 </div>
-  
+
 ##
   
 <div>
