@@ -1,6 +1,6 @@
 ### Vinícius Gonzaga Cavalcante Rodrigues 
 
-- 🔭 Atualmente trabalhando com back end 
+- 🔭 Atualmente estudando back end 
 - 🌱 Estudando nest.js
 - 📫 Contate-me no email: vinicius.gonzaga@academico.ifpb.edu.br
 
