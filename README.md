@@ -57,7 +57,7 @@
 -->
 
 <h1 align="left">Vinícius Rodrigues</h1>
-<img align="right" height="650em" src="https://github.com/ViniciusRodrigues10/ViniciusRodrigues10/assets/76957963/4a4b685d-f491-409f-abbe-88c05ecc822f"/>
+<img align="right" height="600em" src="https://github.com/ViniciusRodrigues10/ViniciusRodrigues10/assets/76957963/4a4b685d-f491-409f-abbe-88c05ecc822f"/>
 <!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Rodrigues</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusRodrigues10&color=yellow" alt="Profile views" /> </p>
 
