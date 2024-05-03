@@ -66,6 +66,8 @@
 - 🔭 Backend
   
 - 🌱 Estudando Node.js
+  
+- 📄 Currículo: [Acesse meu currículo](https://drive.google.com/file/d/1cNwKL1VXQ33vyZl5qlukN276A2e_McGo/view?usp=sharing)
 
 <!--- 👨‍💻 Portfolio: [Portfolio Vinicius Rodrigues](https://portfolio-vinicius-rodrigues.netlify.app/) -->
 
