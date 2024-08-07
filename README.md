@@ -61,13 +61,15 @@
 <!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Rodrigues</h1> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusRodrigues10&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Web Junior
+- Desenvolvedor Web Junior
 
-- 🔭 Backend
+- Backend
   
-- 🌱 Estudando Node.js
+<!---- Estudando Node.js-->
+
+- Acesse meu portfolio: [clique aqui](https://portfolio-vinicius-rodrigues.netlify.app/)
   
-- 📄 Currículo: [Acesse meu currículo](https://drive.google.com/file/d/1cNwKL1VXQ33vyZl5qlukN276A2e_McGo/view?usp=sharing)
+- Acesse meu currículo: [clique aqui](https://drive.google.com/file/d/1cNwKL1VXQ33vyZl5qlukN276A2e_McGo/view?usp=sharing)
 
 <!--- 👨‍💻 Portfolio: [Portfolio Vinicius Rodrigues](https://portfolio-vinicius-rodrigues.netlify.app/) -->
 
